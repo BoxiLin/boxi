@@ -58,8 +58,8 @@ list1.2=c("G85E", "3849+10kbC>T", "3849+10kbC->T" ,"A455E", "IVS8(5T)", "3272-26
           "D443Y", "E116K", "F508C", "G1003E", "G458V", "L165S", "M150K", "R117H(7T)", "R117P", "R560K", "R668C", "S1159F",
           "Q1209P", "2789+5G->A", "D1270N" )
 
-m1=c("NEGATIVE", "MISSINGDATA", "WAITINGRESU"," ", "________", "c.4028C>T", "NOTTYPED", "UNKNOWN", "-999","unknown" ,"Not ID", "UNK",
-     "**No Data Available","Missing","**Not Identified","unk","Unknown")
+# m1=c("NEGATIVE", "MISSINGDATA", "WAITINGRESU"," ", "________", "c.4028C>T", "NOTTYPED", "UNKNOWN", "-999","unknown" ,"Not ID", "UNK",
+#      "**No Data Available","Missing","**Not Identified","unk","Unknown")
 
 
 #' Assigning CFTR score based on CFTR mutations
